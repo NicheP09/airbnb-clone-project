@@ -49,3 +49,5 @@ Typography:
 Primary Font: Circular, Medium (500), 16px
 Headings: Circular, Bold (700), 24px-32px
 Secondary Text: Circular, Book (400), 14px
+
+
